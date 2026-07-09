@@ -20,3 +20,5 @@ python3 url2ip.py example.com
 # ⚠️
 PinDOS is meant for educational and research purposes only.
 Any malicious use of this tool is prohibited.
+
+See the [Changelog](CHANGELOG.md) for the latest updates.
