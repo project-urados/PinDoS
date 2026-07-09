@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GNU-green?style=for-the-badge)
 # PinDoS
-PinDoS is an aggressive DoS system that launches a full-scale DoS attack on its target.
+PinDoS is an aggressive DDoS system that launches a DDoS attack on its target.
 How to use:
 
 ```bash
