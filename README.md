@@ -20,8 +20,14 @@ python3 url2ip.py example.com
 # Example website ^^^^^^^^^^^
 ```
 
-# ⚠️
-PinDOS is meant for educational and research purposes only.
-Any malicious use of this tool is prohibited.
+
+## ⚠️ Disclaimer
+
+| **PinDoS is meant for educational and research purposes only.<br />Any malicious usage of this tool is prohibited.<br />The authors must not be held responsible for any consequences from the usage of this tool.** |
+| :--- |
+
+## Introducing **PinDoS**
+
+**PinDoS** is a *Distributed Denial of Service* tool that can put a heavy load on HTTPS servers and stop them from functioning normally by exhausting their resource pool.
 
 See the [Changelog](CHANGELOG.md) for the latest updates.
