@@ -1,4 +1,4 @@
-![PinDoS logo](../images/pindos-logo.png)
+![PinDoS logo](assets/pindos-logo.png)
 # PinDoS
 PinDoS is an aggressive DoS system that launches a full-scale DoS attack on its target.
 How to use:
