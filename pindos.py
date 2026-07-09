@@ -5,7 +5,7 @@ from tkinter import ttk, messagebox
 import subprocess
 import os
 
-SCRIPT = "core/pindos-start.py"
+SCRIPT = "core/pindos_start.py"
 ENTRY = "#3c3f41"
 
 

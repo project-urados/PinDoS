@@ -25,10 +25,7 @@ def lookup_dns(hostname):
 
     try:
         records = socket.getaddrinfo(
-            hostname,
-            None,
-            socket.AF_UNSPEC,
-            socket.SOCK_STREAM
+            hostname, None, socket.AF_UNSPEC, socket.SOCK_STREAM
         )
 
         for record in records:
