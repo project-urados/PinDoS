@@ -2,8 +2,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GNU-green?style=for-the-badge)
-![Build and Package](https://img.shields.io/github/workflow/status/Hyperclaw79/HULK-v3/Build%20and%20Package/async?style=for-the-badge)
-![Codacy branch grade](https://img.shields.io/codacy/grade/c4f7560e8231423691d819129c7b3afa/async?style=for-the-badge)
 # PinDoS
 PinDoS is an aggressive DoS system that launches a full-scale DoS attack on its target.
 How to use:
